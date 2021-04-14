@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/>
   <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Figma%20-%23F24E1E.svg?&style=flat-square&logo=figma&logoColor=white"/>
 </p>
 
 ![Rectangle 1](https://user-images.githubusercontent.com/65919895/114769967-84fb8800-9d30-11eb-9d26-85f1e4a312cc.png)

@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hola, soy Stephanie 👩‍💻
+
+![Rectangle 1](https://user-images.githubusercontent.com/65919895/114769967-84fb8800-9d30-11eb-9d26-85f1e4a312cc.png)
 
 <!--
 **StephanieJolianis/StephanieJolianis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

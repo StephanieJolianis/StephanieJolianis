@@ -10,7 +10,7 @@
 ![Rectangle 1](https://user-images.githubusercontent.com/65919895/114769967-84fb8800-9d30-11eb-9d26-85f1e4a312cc.png)
 
 
-### Languages and Tools 🛠 
+#### Lenguajes y herramientas 🛠 
 <p align = "center">
   <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A"/>
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff"/>

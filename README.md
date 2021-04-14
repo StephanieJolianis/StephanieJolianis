@@ -1,7 +1,14 @@
-### Hola, soy Stephanie 👩‍💻
+### Hola, soy Stephanie<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 ![Rectangle 1](https://user-images.githubusercontent.com/65919895/114769967-84fb8800-9d30-11eb-9d26-85f1e4a312cc.png)
 ![stephanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephaniejolianis&theme=buefy&show_icons=true) ![stephanie's GitHub lenguages](https://github-readme-stats.vercel.app/api/top-langs/?username=stephaniejolianis&theme=buefy) 
+![Rectangle 1](https://user-images.githubusercontent.com/65919895/114769967-84fb8800-9d30-11eb-9d26-85f1e4a312cc.png)
+
+
+
+
+
+
 <!--
 **StephanieJolianis/StephanieJolianis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
